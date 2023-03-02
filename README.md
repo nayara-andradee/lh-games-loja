@@ -1,8 +1,9 @@
 # SiteLHGames
 
 ## Projeto feito com Angular
-Site que desenvolvi para para uma atividade do SenaiSP, no curso de front-end. 
 
+Site que desenvolvi para para uma atividade do SenaiSP, no curso de front-end. 
+(Acesse o [site ](http://localhost:4200/inicio))
 ## Tecnologias
 * Typescript
 * CSS
